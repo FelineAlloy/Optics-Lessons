@@ -13,7 +13,7 @@ locales["ro"] = {
     "message": "Natura Luminii"
   },
   "fermatPrinciple": {
-    "message": "Fermat's Principle"
+    "message": "Principiul lui Fermat"
   },
   "sphericalDioptr": {
     "message": "Dioptrul sferic"
